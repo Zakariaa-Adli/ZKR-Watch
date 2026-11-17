@@ -1,3 +1,4 @@
-# https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow:
+Allow: /
+
+# ZKR Watch is a client-rendered catalogue. All routes share the same shell.
